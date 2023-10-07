@@ -165,7 +165,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BasketTests.h" />
+    <ClInclude Include="BasketTests.cpp" />
     <ClInclude Include="ComputerTests.h" />
     <ClInclude Include="DiskTests.h" />
     <ClInclude Include="FileTests.h" />
