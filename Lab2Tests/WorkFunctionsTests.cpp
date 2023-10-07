@@ -1,7 +1,7 @@
 #pragma once
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "ComputerTests.h"
+#include "ComputerTests.cpp"
 #include <sstream>
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;

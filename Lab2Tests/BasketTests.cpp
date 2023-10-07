@@ -1,7 +1,7 @@
 #pragma once
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "WifiTests.h"
+#include "WifiTests.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 

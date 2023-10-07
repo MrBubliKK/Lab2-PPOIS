@@ -166,16 +166,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BasketTests.cpp" />
-    <ClInclude Include="ComputerTests.h" />
-    <ClInclude Include="DiskTests.h" />
-    <ClInclude Include="FileTests.h" />
-    <ClInclude Include="LogoTests.h" />
-    <ClInclude Include="MonicTests.h" />
-    <ClInclude Include="OsTest.h" />
+    <ClInclude Include="ComputerTests.cpp" />
+    <ClInclude Include="DiskTests.cpp" />
+    <ClInclude Include="FileTests.cpp" />
+    <ClInclude Include="LogoTests.cpp" />
+    <ClInclude Include="MonicTests.cpp" />
+    <ClInclude Include="OsTest.cpp" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="Sys_blockTests.h" />
-    <ClInclude Include="WifiTests.h" />
-    <ClInclude Include="WorkFunctionsTests.h" />
+    <ClInclude Include="Sys_blockTests.cpp" />
+    <ClInclude Include="WifiTests.cpp" />
+    <ClInclude Include="WorkFunctionsTests.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

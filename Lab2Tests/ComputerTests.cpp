@@ -1,5 +1,5 @@
 #pragma once
-#include "Sys_blockTests.h"
+#include "Sys_blockTests.cpp"
 #include "pch.h"
 #include "CppUnitTest.h"
 

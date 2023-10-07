@@ -1,5 +1,5 @@
 #pragma once
-#include "MonicTests.h"
+#include "MonicTests.cpp"
 #include "pch.h"
 #include "CppUnitTest.h"
 

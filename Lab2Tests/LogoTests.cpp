@@ -1,5 +1,5 @@
 #pragma once
-#include "FileTests.h"
+#include "FileTests.cpp"
 #include "pch.h"
 #include "CppUnitTest.h"
 

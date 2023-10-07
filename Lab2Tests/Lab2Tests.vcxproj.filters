@@ -29,31 +29,31 @@
     <ClInclude Include="BasketTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="ComputerTests.h">
+    <ClInclude Include="ComputerTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="DiskTests.h">
+    <ClInclude Include="DiskTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="FileTests.h">
+    <ClInclude Include="FileTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="LogoTests.h">
+    <ClInclude Include="LogoTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="MonicTests.h">
+    <ClInclude Include="MonicTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="OsTest.h">
+    <ClInclude Include="OsTest.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Sys_blockTests.h">
+    <ClInclude Include="Sys_blockTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="WifiTests.h">
+    <ClInclude Include="WifiTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="WorkFunctionsTests.h">
+    <ClInclude Include="WorkFunctionsTests.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
